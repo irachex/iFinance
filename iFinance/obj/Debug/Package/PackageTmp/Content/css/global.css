@@ -1,0 +1,79 @@
+﻿.clear 
+{
+	clear:both;
+	height:0;
+}
+
+ol, ul 
+{
+	list-style: none;
+}
+
+ a 
+{
+	text-decoration:none;
+	color: #36879E;
+}
+a:hover 
+{
+	color:White;
+	background-color:#9CACCD;
+}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-weight: inherit;
+font-style: inherit;
+font-size: 100%;
+font-family: inherit;
+vertical-align: baseline;
+}
+
+input[type="text"], input[type="password"] { border: 1px solid #ccc; }
+
+textarea { overflow: auto; border: 1px solid #ccc; }
+select { border: 1px solid #ccc; }
+
+.active 
+{
+	background-color:#CBDBE6;
+	color:#1059A0;
+	
+}
+.dactive 
+{
+	background-color:#9CACCD;
+	color:White;
+}
+.item 
+{
+	vertical-align:top;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+.register_item 
+{
+		vertical-align:top;
+	margin-top:5px;
+	margin-bottom:5px;
+		margin-left:25px;
+}
+.item_label 
+{
+	vertical-align:top;
+}
+tr 
+{
+	line-height:22px;
+	height:22px;
+}
+tr:hover 
+{
+	line-height:22px;
+	height:22px;
+	background: #f7f7f7;	
+}

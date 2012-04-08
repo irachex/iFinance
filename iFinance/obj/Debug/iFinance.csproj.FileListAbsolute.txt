@@ -1,0 +1,10 @@
+E:\Project\iFinance\iFinance\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\iFinance\iFinance\bin\iFinance.dll
+E:\Project\iFinance\iFinance\bin\iFinance.pdb
+E:\Project\iFinance\iFinance\obj\Debug\iFinance.dll
+E:\Project\iFinance\iFinance\obj\Debug\iFinance.pdb
+C:\Users\irachex\Documents\Visual Studio 2010\Projects\iFinance\iFinance\bin\iFinance.dll
+C:\Users\irachex\Documents\Visual Studio 2010\Projects\iFinance\iFinance\bin\iFinance.pdb
+C:\Users\irachex\Documents\Visual Studio 2010\Projects\iFinance\iFinance\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\irachex\Documents\Visual Studio 2010\Projects\iFinance\iFinance\obj\Debug\iFinance.dll
+C:\Users\irachex\Documents\Visual Studio 2010\Projects\iFinance\iFinance\obj\Debug\iFinance.pdb

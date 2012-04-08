@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\irachex\Documents\Visual Studio 2010\Projects\iFinancePub" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/iFinance.pdb" publishTime="06/26/2011 14:09:04" />
+    <file relUrl="Views/home/index.aspx" publishTime="06/26/2011 12:21:32" />
+    <file relUrl="Content/images/edit.png" publishTime="05/06/2011 23:31:25" />
+    <file relUrl="Views/home/editAccount.ascx" publishTime="05/07/2011 00:30:11" />
+    <file relUrl="Content/js/global.js" publishTime="05/06/2011 22:50:14" />
+    <file relUrl="Views/note/edit.ascx" publishTime="06/26/2011 12:31:51" />
+    <file relUrl="Global.asax" publishTime="04/10/2011 17:33:53" />
+    <file relUrl="Content/images/ui-icons_cd0a0a_256x240.png" publishTime="05/05/2011 16:25:36" />
+    <file relUrl="Views/home/editTagList.ascx" publishTime="05/06/2011 22:54:15" />
+    <file relUrl="Content/images/ui-icons_d8e7f3_256x240.png" publishTime="05/05/2011 16:25:36" />
+    <file relUrl="Views/admin/list.ascx" publishTime="06/26/2011 14:07:36" />
+    <file relUrl="Content/images/ui-icons_469bdd_256x240.png" publishTime="05/05/2011 16:25:36" />
+    <file relUrl="Content/css/style.css" publishTime="05/07/2011 04:35:50" />
+    <file relUrl="Views/note/add.ascx" publishTime="06/26/2011 12:04:05" />
+    <file relUrl="Content/images/body_bg.png" publishTime="05/04/2011 23:38:11" />
+    <file relUrl="Content/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" publishTime="05/05/2011 16:25:36" />
+    <file relUrl="Views/auth/register.aspx" publishTime="06/26/2011 12:52:11" />
+    <file relUrl="Content/datepicker.css" publishTime="05/05/2011 16:20:31" />
+    <file relUrl="Views/home/taglist.ascx" publishTime="05/06/2011 23:41:55" />
+    <file relUrl="App_Data/db_log.ldf" publishTime="06/26/2011 15:07:27" />
+    <file relUrl="Content/css/global.css" publishTime="06/26/2011 04:49:04" />
+    <file relUrl="Content/images/ui-bg_glass_75_d0e5f5_1x400.png" publishTime="05/05/2011 16:25:36" />
+    <file relUrl="Views/home/statics.ascx" publishTime="05/07/2011 16:19:00" />
+    <file relUrl="Content/js/jquery-1.6.min.js" publishTime="05/05/2011 02:21:57" />
+    <file relUrl="Content/js/account.js" publishTime="05/06/2011 21:48:38" />
+    <file relUrl="bin/iFinance.dll" publishTime="06/26/2011 14:09:04" />
+    <file relUrl="Content/images/ui-bg_flat_55_fbec88_40x100.png" publishTime="05/05/2011 16:25:36" />
+    <file relUrl="Content/js/tag.js" publishTime="05/07/2011 04:10:07" />
+    <file relUrl="Content/images/title_time.png" publishTime="05/07/2011 00:00:57" />
+    <file relUrl="Content/images/ui-icons_217bc0_256x240.png" publishTime="05/05/2011 16:25:36" />
+    <file relUrl="Content/images/ui-icons_f9bd01_256x240.png" publishTime="05/05/2011 16:25:36" />
+    <file relUrl="Content/js/filter.js" publishTime="05/07/2011 16:13:04" />
+    <file relUrl="Views/Shared/Site.Master" publishTime="06/26/2011 11:53:31" />
+    <file relUrl="Content/js/datepicker.js" publishTime="05/05/2011 16:27:01" />
+    <file relUrl="Views/Shared/msg.aspx" publishTime="05/05/2011 01:44:50" />
+    <file relUrl="Views/note/list.ascx" publishTime="06/26/2011 14:06:45" />
+    <file relUrl="Content/js/highcharts.js" publishTime="05/07/2011 13:25:57" />
+    <file relUrl="Content/images/ui-bg_flat_0_aaaaaa_40x100.png" publishTime="05/05/2011 16:25:36" />
+    <file relUrl="App_Data/db.mdf" publishTime="06/26/2011 15:07:27" />
+    <file relUrl="Content/images/ui-bg_inset-hard_100_f5f8f9_1x100.png" publishTime="05/05/2011 16:25:36" />
+    <file relUrl="Content/images/delete.png" publishTime="05/06/2011 23:31:55" />
+    <file relUrl="Views/note/index.aspx" publishTime="06/26/2011 13:48:49" />
+    <file relUrl="Views/home/addAccount.ascx" publishTime="05/06/2011 22:53:04" />
+    <file relUrl="Web.config" publishTime="05/06/2011 23:25:38" />
+    <file relUrl="Views/admin/index.aspx" publishTime="06/26/2011 13:49:02" />
+    <file relUrl="Views/home/accountList.ascx" publishTime="05/06/2011 23:33:03" />
+    <file relUrl="Content/images/ui-bg_glass_95_fef1ec_1x400.png" publishTime="05/05/2011 16:25:36" />
+    <file relUrl="Content/images/ui-bg_glass_85_dfeffc_1x400.png" publishTime="05/05/2011 16:25:36" />
+    <file relUrl="Content/js/register.js" publishTime="05/05/2011 02:58:46" />
+    <file relUrl="Content/js/message.js" publishTime="06/26/2011 12:03:18" />
+    <file relUrl="Content/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png" publishTime="05/05/2011 16:25:36" />
+    <file relUrl="Views/auth/login.aspx" publishTime="05/06/2011 22:27:54" />
+    <file relUrl="Content/images/ui-icons_2e83ff_256x240.png" publishTime="05/05/2011 16:25:36" />
+    <file relUrl="Views/Web.config" publishTime="04/10/2011 17:33:53" />
+    <file relUrl="Content/js/excanvas.min.js" publishTime="05/07/2011 01:52:08" />
+    <file relUrl="Content/images/ui-icons_6da8d5_256x240.png" publishTime="05/05/2011 16:25:36" />
+  </publishProfile>
+</publishData>
